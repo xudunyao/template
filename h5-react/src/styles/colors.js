@@ -1,0 +1,27 @@
+export default Object.freeze({
+  transparent: 'transparent',
+  primary: '#018EFF',
+  primaryLight: '#6BBDFF',
+  primaryLighter: '#E1F2FF',
+  primaryWhite: '#AFDBFF',
+  primaryBlack: '#002247',
+  black: '#000000',
+  white: '#FFFFFF',
+  red: '#DE1717',
+  magenta: '#EF6060',
+  orange: '#FF830B',
+  yellow: '#EBB464',
+  yellowLight: '#F5B253',
+  tomato: '#E43700',
+
+  background: '#F3F3F3',
+  backgroundDark: '#F5F5F5',
+  backgroundDarker: '#F2F2F2',
+  border: '#EFEEEE',
+  tabBorder: '#D8D8D8',
+
+  textPrimary: '#333333',
+  textSecondary: '#666666',
+  textTertiary: '#999999',
+  textDisabled: '#CDCDCD',
+});

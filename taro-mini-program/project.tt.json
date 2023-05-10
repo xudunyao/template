@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./dist/tt",
+  "projectname": "taro-mini-program",
+  "description": "taro-mini-program",
+  "appid": "",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}

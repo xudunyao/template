@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none">
+    <title>切片</title>
+    <g id="会员" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="登录" transform="translate(-56.000000, -581.000000)">
+            <g id="1.iOS/3.Element/Checkbox/Cell-On" transform="translate(56.000000, 581.000000)">
+                <path d="M7.90123457,0 C12.4183704,0 16,3.58162963 16,8.09876543 C16,12.4183704 12.4183704,16 7.90123457,16 C3.58162963,16 0,12.4183704 0,8.09876543 C0,3.58162963 3.58162963,0 7.90123457,0 Z M12.0616739,5 L6.38635991,10.675314 L3.82305434,8.11200846 L3,8.93506281 L5.67925313,11.6143159 C6.06977742,12.0048402 6.7029424,12.0048402 7.09346669,11.6143159 L12.8847283,5.82305434 L12.0616739,5 Z" id="形状结合"></path>
+            </g>
+        </g>
+    </g>
+</svg>
